@@ -12,7 +12,17 @@ $ yarn
 $ yarn dev
 
 ```
-Backend source has default env file, so it is not needed to add aditional env manually.
+Backend source has default env file, so it is not needed to configure env file addtionally.
 
 ## Frontend
 
+```shell
+# npm install
+$ yarn
+
+# run 
+$ yarn start
+
+```
+
+Frontend source has default env file also, no need to configure env file addtionally.
