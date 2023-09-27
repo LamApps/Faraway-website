@@ -16,9 +16,14 @@ Backend source has default env file, so it is not needed to configure env file a
 
 ### Endpoints
 
+- Get CreatedCollection Events
+```shell
+  GET http://localhost:8000/collections
+```
+
+- Get TokenMinted Events
 ```shell
 
-  GET http://localhost:8000/collections
   GET http://localhost:8000/tokens
 
 ```
