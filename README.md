@@ -14,6 +14,15 @@ $ yarn dev
 ```
 Backend source has default env file, so it is not needed to configure env file addtionally.
 
+### Endpoints
+
+```shell
+
+  GET http://localhost:8000/collections
+  GET http://localhost:8000/tokens
+
+```
+
 ## Frontend
 
 ```shell
